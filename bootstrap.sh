@@ -20,7 +20,7 @@ yum install -y gcc gcc-c++ libatomic libtalloc-devel libtool libtool-ltdl-devel 
 
 INSTALL_PREFIX="/opt"
 
-FR3_VERSION="release_3_0_25"
+FR3_VERSION="release_3_2_0"
 INSTALL_PATH="${INSTALL_PREFIX}/eduroam-idp-${FR3_VERSION}"
 CONFIG_PATH="${INSTALL_PATH}/etc/raddb"
 
